@@ -10,7 +10,3 @@ e= nombre[0: 1]
 s= apellido[0: 1]
 curp= e+edad+s
 print(nombre,apellido,edad, curp)
-
-
-
-
