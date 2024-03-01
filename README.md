@@ -1,4 +1,4 @@
-# Pr-ctica-Equipo
+# Practica-Equipo
 ```
 nom=input('Escribe tu nombre: ') = Esta línea solicita al usuario que ingrese su nombre y almacena el valor ingresado en la variable nom.
 ```
